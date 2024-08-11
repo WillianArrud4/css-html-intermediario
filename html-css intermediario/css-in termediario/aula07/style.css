@@ -1,0 +1,24 @@
+
+
+::selection {
+    color: pink;
+    background: black;
+}
+
+p::first-line {
+ color: orange;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 50px;
+}
+
+h1::before {
+    background: url(https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Ffoguete-png&psig=AOvVaw0dkBHljglt5QCrm9MTvZdH&ust=1711408376771000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjxn5iDjoUDFQAAAAAdAAAAABAE);
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    content: "";
+}

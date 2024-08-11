@@ -1,0 +1,17 @@
+
+body{
+    
+    color: white;
+}
+a{
+    display: inline;
+}
+
+ul{
+    background: purple;
+}
+
+ul li {
+    display: inline;
+
+}

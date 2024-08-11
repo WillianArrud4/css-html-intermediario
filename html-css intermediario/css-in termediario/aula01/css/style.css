@@ -1,0 +1,37 @@
+ .ptx{
+    border: solid black 1px;
+    margin: 15px;
+    padding: 15px;
+ }
+
+ .txt1 p.red{ 
+   color: red; 
+}
+
+.margin {
+    margin: 50px;
+}
+
+h1, h2, h3 {
+    color: blue;
+}
+
+
+
+.txt2 > p {
+     color: blue;
+}
+
+/* */
+
+.txt3 + p {
+    color: red;
+}
+
+/* o + serve para pega o primero ele mento irmão direto*/
+
+.txt4 ~ p {
+    color: green;
+}
+
+/* pega todos os irmao diro */

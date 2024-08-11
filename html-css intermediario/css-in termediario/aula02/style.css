@@ -1,0 +1,17 @@
+
+
+p {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-indent: 50px;
+}
+
+a{
+    text-decoration: none;
+    letter-spacing: 30px;
+}
